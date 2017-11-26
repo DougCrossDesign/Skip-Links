@@ -1,7 +1,4 @@
-# Skip-Links
-Skip Links for Web Accessibility using focused and non-focused state on text links at top of the page to direct users into areas of a HTML structure section quickly without having to navigation through other confused content.
-
-Web Accessibility - Skip Links
+# Web Accessibility - Skip Links
 ------------------------------
 Example of how to use Skip Links for Web Accessibility using focused and non-focused state on text links at top of the page to direct users into areas of a HTML structure section quickly without having to navigation through other confused content.
 
